@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alaa-elbaz
+- 👋 Hi, I’m Alaa El Baz
   
 
 <!---
